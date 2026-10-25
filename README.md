@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend developer (Go) · CS student at Nazarbayev University · Astana
 
 
